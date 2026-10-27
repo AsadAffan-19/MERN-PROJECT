@@ -1,5 +1,7 @@
 # Wage Tracker — Daily Wage Worker Attendance & Pay
 
+🎥 [Demo Video](https://drive.google.com/drive/folders/1u_hCcLibz2xGCnhGXJJwm4kFUA706Zju?usp=drive_link)
+
 A MERN app for a contractor to track daily attendance of workers and calculate their pay
 (minus any advances paid). No login. It is meant for a single contractor, whose details are
 stored in one profile document.
